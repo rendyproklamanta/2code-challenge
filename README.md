@@ -1,3 +1,1 @@
-## 2code-challenge
-
-Just for Fun
+Figma file : https://www.figma.com/file/PafA240okxdYxLzXDxMHAJ/Millious-Three-%7C-Spa-%26-Beauty-Salon?node-id=1%3A2
